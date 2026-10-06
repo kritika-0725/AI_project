@@ -1,0 +1,29 @@
+.main {
+    background-color: #0b1120;
+}
+
+.nexa-title {
+    font-size: 42px;
+    font-weight: 800;
+    color: #38bdf8;
+}
+
+.nexa-subtitle {
+    font-size: 18px;
+    color: #94a3b8;
+}
+
+.status-box {
+    padding: 12px;
+    border-radius: 10px;
+    background-color: #172033;
+    color: #cbd5e1;
+}
+
+.stButton > button {
+    border-radius: 10px;
+}
+
+.stChatMessage {
+    border-radius: 12px;
+}
